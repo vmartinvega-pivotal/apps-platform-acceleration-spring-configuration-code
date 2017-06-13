@@ -3,3 +3,6 @@ security:
     enabled: false
 server:
   port: 9091
+spring:
+  application:
+    name:  billing
