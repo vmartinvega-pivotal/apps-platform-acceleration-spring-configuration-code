@@ -2,4 +2,4 @@ server:
   port: 9090
 security:
   basic:
-    enabled: true
+    enabled: false
