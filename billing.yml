@@ -3,3 +3,4 @@ security:
     enabled: false
 server:
   port: 9091
+queueName: billing-queue
