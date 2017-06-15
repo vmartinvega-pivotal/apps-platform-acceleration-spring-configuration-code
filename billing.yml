@@ -2,5 +2,5 @@ security:
   basic:
     enabled: false
 server:
-  port: 9091
+  port: 8080
 queueName: billing-queue
